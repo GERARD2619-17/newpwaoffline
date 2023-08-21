@@ -1,0 +1,8 @@
+#goalTable {
+    width: 100%;
+}
+#controlPanel {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
